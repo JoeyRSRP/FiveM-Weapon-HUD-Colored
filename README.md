@@ -1,4 +1,4 @@
-# Weapon Wheel Color Changer for FiveM
+# Weapon Wheel With Color
 
 This simple FiveM client script allows you to change the color of the weapon wheel HUD. You can adjust the RGB and alpha values to your own preferred color.
 
