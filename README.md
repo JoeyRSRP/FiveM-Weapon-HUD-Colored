@@ -8,11 +8,6 @@ This simple FiveM client script allows you to change the color of the weapon whe
 - Easy RGB and alpha customization
 - Low-resource usage
 
-## Preview
-
-![Color Example](https://www.rapidtables.com/web/color/RGB_Color.html)  
-*Default color: Blue (RGB: 0, 153, 255)*
-
 ## Installation
 
 1. Add the script to your `resources` folder.
